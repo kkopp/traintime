@@ -5,3 +5,12 @@
 .container {
     margin-top: 20px;
 }
+
+h5 {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 50px;
+}
+
+p {
+    font-family: 'Libre Franklin', sans-serif;
+}
