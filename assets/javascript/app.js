@@ -1,7 +1,4 @@
 $(document).ready(function () {
-    $('#tableBox').DataTable();
-
-});
 
 var config = {
     apiKey: "AIzaSyCU76PJ7d50qr5fWiEiqpn_DG3N1U07_DE",
@@ -78,3 +75,4 @@ database.ref().on("child_added", function (childSnapshot) {
     console.log("Errors handled: " + errorObject.code);
 });
 
+});
