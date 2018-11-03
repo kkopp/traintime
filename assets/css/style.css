@@ -1,3 +1,7 @@
 .card-img {
-    height: 100px;
+    height: 300px;
+}
+
+.container {
+    margin-top: 20px;
 }
